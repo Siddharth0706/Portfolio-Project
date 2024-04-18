@@ -18,7 +18,7 @@ function App() {
 
   const location = useLocation();
   const renderParticleJsIfCurrentPageIsHomePage =
-    location.pathname === "/Portfolio-Project/";
+    location.pathname === "/siddharth-sheokand/";
 
   return (
     <div className="App">
