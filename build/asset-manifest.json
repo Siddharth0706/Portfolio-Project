@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Project/static/css/main.29bdecca.css",
+    "main.js": "/Portfolio-Project/static/js/main.637fdcaf.js",
+    "static/media/Siddharth Resume.pdf": "/Portfolio-Project/static/media/Siddharth Resume.b38bc4254e6fda28ceb7.pdf",
+    "index.html": "/Portfolio-Project/index.html",
+    "main.29bdecca.css.map": "/Portfolio-Project/static/css/main.29bdecca.css.map",
+    "main.637fdcaf.js.map": "/Portfolio-Project/static/js/main.637fdcaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29bdecca.css",
+    "static/js/main.637fdcaf.js"
+  ]
+}
