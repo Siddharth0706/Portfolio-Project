@@ -17,11 +17,11 @@ const Navbar = () => {
             <FaReact size={30} />
           </Link>
           <ul
-            className={
+           className={
               click
                 ? "navbar__container__menu active"
                 : "navbar__container__menu"
-            }
+            } 
           >
             {navMenus.map((item, key) => (
               <li key={key} className="navbar__container__menu__item">
